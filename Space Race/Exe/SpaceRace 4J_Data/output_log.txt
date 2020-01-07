@@ -1,0 +1,105 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1116 MB
+    Driver:   20.19.15.4642
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Unity Projects\Space Race\Exe\SpaceRace 4J_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.073 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 7.025896 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c70 -> priority: 1 
+  Thread -> id: 530 -> priority: 1 
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename:  Line: 1351)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.102163 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 0.895310 ms (FindLiveObjects: 0.141323 ms CreateObjectMapping: 0.097899 ms MarkObjects: 0.635165 ms  DeleteObjects: 0.018553 ms)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.364677 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 1.618900 ms (FindLiveObjects: 0.112505 ms CreateObjectMapping: 0.103821 ms MarkObjects: 1.326385 ms  DeleteObjects: 0.074609 ms)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.385125 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 1.475603 ms (FindLiveObjects: 0.103031 ms CreateObjectMapping: 0.088425 ms MarkObjects: 1.239933 ms  DeleteObjects: 0.040660 ms)
+
+Victoire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.544607 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 1.579425 ms (FindLiveObjects: 0.241196 ms CreateObjectMapping: 0.183957 ms MarkObjects: 1.104137 ms  DeleteObjects: 0.045791 ms)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Defaite
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

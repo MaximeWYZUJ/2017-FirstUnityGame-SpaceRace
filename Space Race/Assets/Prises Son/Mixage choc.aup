@@ -1,0 +1,203 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Mixage choc_data" version="1.3.0" audacityversion="2.1.0" sel0="1.0615022038" sel1="1.0615022038" vpos="0" h="0.0000000000" zoom="307.1119389472" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags/>
+	<wavetrack name="Bouteille (6)" channel="0" linked="1" mute="0" solo="0" height="79" minimized="1" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.86279167">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149504">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000310.au" len="149504" min="-0.202026" max="0.238007" rms="0.003914"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (6)" channel="1" linked="0" mute="0" solo="0" height="79" minimized="1" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.86279167">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="149504">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e30.au" len="149504" min="-0.202026" max="0.238007" rms="0.003914"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (7)" channel="0" linked="1" mute="0" solo="0" height="79" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.95727083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="168704">
+				<waveblock start="0">
+					<simpleblockfile filename="e000071f.au" len="168704" min="-0.192474" max="0.230347" rms="0.003948"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (7)" channel="1" linked="0" mute="0" solo="0" height="79" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.95727083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="168704">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000646.au" len="168704" min="-0.192474" max="0.230347" rms="0.003948"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (3)" channel="0" linked="1" mute="0" solo="0" height="68" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.40133333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232311">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c76.au" len="56084" min="-0.000214" max="0.000153" rms="0.000051"/>
+				</waveblock>
+				<waveblock start="56084">
+					<simpleblockfile filename="e0000b8c.au" len="176227" min="-0.709318" max="0.997172" rms="0.022984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (3)" channel="1" linked="0" mute="0" solo="0" height="68" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.40133333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232311">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000475.au" len="56084" min="-0.000214" max="0.000153" rms="0.000051"/>
+				</waveblock>
+				<waveblock start="56084">
+					<simpleblockfile filename="e0000952.au" len="176227" min="-0.709318" max="0.997172" rms="0.022984"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (9)" channel="0" linked="1" mute="0" solo="0" height="86" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.89743750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="167360">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000660.au" len="167360" min="-0.181549" max="0.224609" rms="0.005757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (9)" channel="1" linked="0" mute="0" solo="0" height="86" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.89743750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="167360">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f01.au" len="167360" min="-0.181549" max="0.224609" rms="0.005757"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (2)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.95727083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="120832">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000fb1.au" len="120832" min="-0.181181" max="0.184102" rms="0.009364"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (2)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.95727083">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="120832">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005a6.au" len="120832" min="-0.18137" max="0.183872" rms="0.008184"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (3)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.54935417">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="174438">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000718.au" len="75887" min="-0.009788" max="0.003116" rms="0.000637"/>
+				</waveblock>
+				<waveblock start="75887">
+					<simpleblockfile filename="e000064d.au" len="98551" min="-0.145655" max="0.145356" rms="0.018559"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (3)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.54935417">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="174438">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ad8.au" len="75887" min="-0.009871" max="0.003342" rms="0.000644"/>
+				</waveblock>
+				<waveblock start="75887">
+					<simpleblockfile filename="e000015f.au" len="98551" min="-0.154781" max="0.145139" rms="0.018332"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (4)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.87854167">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118400">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000308.au" len="118400" min="-0.216644" max="0.250086" rms="0.010223"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (4)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.87854167">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118400">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000931.au" len="118400" min="-0.21667" max="0.250183" rms="0.010237"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (5)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.83443750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f9f.au" len="107072" min="-0.160097" max="0.224889" rms="0.007911"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Petit Choc Metal (5)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-0.83443750">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="107072">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e16.au" len="107072" min="-0.160112" max="0.224912" rms="0.007415"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (8)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.14056250">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="181884">
+				<waveblock start="0">
+					<simpleblockfile filename="e000030f.au" len="55358" min="-0.001495" max="0.001404" rms="0.000074"/>
+				</waveblock>
+				<waveblock start="55358">
+					<simpleblockfile filename="e0000fef.au" len="126526" min="-0.281518" max="0.241685" rms="0.009687"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bouteille (8)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="-1.14056250">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="181884">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ffa.au" len="55358" min="-0.001495" max="0.001404" rms="0.000074"/>
+				</waveblock>
+				<waveblock start="55358">
+					<simpleblockfile filename="e000031c.au" len="126526" min="-0.293022" max="0.259197" rms="0.009829"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
